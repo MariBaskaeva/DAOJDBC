@@ -1,0 +1,13 @@
+insert into CUSTOMERS(name, surname, age, phone_number) values ('Mari','Baskaeva',21,'8(888)888-88-55');
+insert into CUSTOMERS(name, surname, age, phone_number) values ('Yaroslav','Ignatenko',23,'8(888)888-88-00');
+insert into CUSTOMERS(name, surname, age, phone_number) values ('Diana','Plieva',20,'8(888)888-88-11');
+insert into CUSTOMERS(name, surname, age, phone_number) values ('Alexey','Gubanov',30,'8(888)888-88-22');
+insert into CUSTOMERS(name, surname, age, phone_number) values ('Albert','Remarque',44,'8(888)888-88-33');
+insert into CUSTOMERS(name, surname, age, phone_number) values ('Helen','Gilbert',43,'8(888)888-88-44');
+insert into ORDERS(product_name, customer_id, amount) values ('pizza',1 ,10);
+insert into ORDERS(product_name, customer_id, amount) values ('sushi', 2, 150);
+insert into ORDERS(product_name, customer_id, amount) values ('coffee', 3, 50);
+insert into ORDERS(product_name, customer_id, amount) values ('tea', 4, 50);
+insert into ORDERS(product_name, customer_id, amount) values ('donut', 1, 35);
+insert into ORDERS(product_name, customer_id, amount) values ('burger', 3, 67);
+insert into ORDERS(product_name, customer_id, amount) values ('free',1, 100);
